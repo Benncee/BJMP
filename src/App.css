@@ -28,6 +28,18 @@
   color: #61dafb;
 }
 
+.input{
+  margin-top: 10px;
+
+}
+.navbar-logo {
+  .navbar-logo {
+  width: 50px; /* Adjust the width to fit your logo */
+  height: auto;
+  margin-right: 10px; /* Add margin if desired */
+}
+
+}
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
